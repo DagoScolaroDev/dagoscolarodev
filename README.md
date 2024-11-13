@@ -15,8 +15,8 @@
 💡 &nbsp;I like to explore new technologies and develop web and software.\
 🎓 &nbsp;I'm currently studying Computer Engineering at UBA ( Universidad de Buenos Aires ) .\
 ✍️ &nbsp;In my free time, I play FPS.\
-💬 &nbsp;Feel free to reach out to me for works, consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at dagoscolaro2006@gmail.com! I'll try to respond as soon as I can. 
+💬 &nbsp;Feel free to reach out to me for works, consulting and volunteering.\
+✉️ &nbsp;You can send me an email to dagoscolaro2006@gmail.com!. 
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
