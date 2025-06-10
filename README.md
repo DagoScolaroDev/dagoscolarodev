@@ -14,7 +14,7 @@
 👨‍💻 &nbsp;I am Currently Working Freelance.\
 💡 &nbsp;I like to explore new technologies and develop web and software.\
 🎓 &nbsp;I'm currently studying Computer Engineering at UBA ( Universidad de Buenos Aires ) .\
-✍️ &nbsp;In my free time, I play FPS.\
+
 💬 &nbsp;Feel free to reach out to me for works, consulting and volunteering.\
 ✉️ &nbsp;You can send me an email to dagoscolaro2006@gmail.com!. 
 
