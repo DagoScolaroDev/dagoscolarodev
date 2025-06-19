@@ -19,8 +19,6 @@
 ✉️ &nbsp;You can send me an email to dagoscolaro2006@gmail.com!. 
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
