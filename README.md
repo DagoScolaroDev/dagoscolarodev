@@ -49,10 +49,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dagoscolarodev&theme=dark&hide_border=true"/>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="mailto:dagoscolaro2006@gmail.com"><img src="https://img.shields.io/badge/dagoscolaro2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
